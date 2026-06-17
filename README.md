@@ -1,7 +1,13 @@
-# mioo — Aplicativo de identificação via NFC
+<p align="center">
+  <img src="assets/images/mioo-icon-1024.png" alt="Logo do mioo" width="140" />
+</p>
 
-> **o app cuida do que é seu.**
-> Reconexão de objetos e animais de estimação aos seus donos por meio de etiquetas inteligentes (NFC).
+<h1 align="center">mioo — Aplicativo de identificação via NFC</h1>
+
+<p align="center">
+  <strong>o app cuida do que é seu.</strong><br/>
+  Reconexão de objetos e animais de estimação aos seus donos por meio de etiquetas inteligentes (NFC).
+</p>
 
 O **mioo** é um aplicativo móvel (Android e iOS) que usa a tecnologia de comunicação por
 aproximação (**NFC**) para reconectar objetos e pets aos seus donos. O dono cria uma etiqueta,
