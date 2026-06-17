@@ -343,7 +343,6 @@ Desenvolvimento de Sistemas** da **Universidade Santo Amaro (UNISA)** — Polo E
 Taubaté/SP, 2026.
 
 - **Autor:** Johnny Pereira Peixoto da Silva
-- **Orientador:** Prof. Luiz da Cruz Oliveira
 
 O trabalho adotou pesquisa aplicada de natureza qualitativa, conduzida como estudo de caso, com
 levantamento de requisitos, práticas de design centrado no ser humano, prototipação de alta
